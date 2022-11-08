@@ -1,0 +1,41 @@
+#divpadrecard{
+    margin-top: 200px;
+}
+
+#divcard{
+    
+    align-items: center;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: min-content;
+    padding: 20px;
+    box-shadow: 1px 1px 10px black;
+    text-align: center;
+    margin: auto;
+   
+}
+
+#qrcode{
+    width: 300px;
+    border-radius: 15px;
+    
+}
+
+
+#p1{
+    font-weight: 700;
+    font-size: 20px; 
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+#p2{
+    font-weight: 400; 
+    font-size: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#divp{
+    padding: 25px;
+}
