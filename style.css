@@ -1,3 +1,8 @@
+html {
+    background-color: hsl(212, 45%, 89%);
+    height: 100%;
+}
+
 #divpadrecard{
     margin-top: 200px;
 }
@@ -20,26 +25,22 @@
 #qrcode{
     width: 300px;
     border-radius: 15px;
-    
+
 }
 
 
 #p1{
     font-weight: 700;
     font-size: 20px; 
-    font-family: 'outfit', serif
+    font-family: 'Outfit', serif
     
 }
 #p2{
     font-weight: 400; 
     font-size: 15px;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: 'Outfit';
 }
 
 #divp{
     padding: 25px;
-}
-html {
-    background-color: hsl(212, 45%, 89%);
-    height: 100%;
 }
