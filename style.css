@@ -3,7 +3,7 @@
 }
 
 #divcard{
-    
+    background-color: white;
     align-items: center;
     border-radius: 15px;
     display: flex;
@@ -27,7 +27,7 @@
 #p1{
     font-weight: 700;
     font-size: 20px; 
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: 'outfit', serif
     
 }
 #p2{
@@ -38,4 +38,8 @@
 
 #divp{
     padding: 25px;
+}
+html {
+    background-color: hsl(212, 45%, 89%);
+    height: 100%;
 }
